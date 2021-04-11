@@ -1,4 +1,4 @@
-# JavaScript - JavaScript.info
+# JavaScript - [JavaScript.info]
 
 ## Specifications
   - ECMAScript is the specfications for javascript
