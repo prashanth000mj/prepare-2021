@@ -1,6 +1,6 @@
 # Javascript
  - [ ] Fundamentals
  - [ ] React.js
- - [ ] [Redux](../js/redux.md)
+ - [ ] [Redux](./more/js/redux.md)
  - [ ] Vue.js
  - [ ] Angular.js
