@@ -15,4 +15,12 @@
  
  ## Developer Console
   - Shift + Enter for multi line console command
- 
+
+
+## Async/Parallel Processing
+ - Callbacks
+ - Promise
+ - async/await
+ - Web Worker
+ - Service Worker
+ - Web Sockets
