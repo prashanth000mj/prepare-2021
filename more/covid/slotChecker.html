@@ -61,6 +61,7 @@
         }
         const startCheckingAvailability = (d, l, f) => {
             stopCheckingAvailability();
+            document.getElementById('error').innerHTML='';
             days = d || parseInt(document.getElementById("days").value);
             locations = l || document.getElementById("locations").value === "" ? [] :document.getElementById("locations").value.split(',');
             let frequency = f || document.getElementById("minute").value * 60000;
