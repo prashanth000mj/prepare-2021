@@ -64,9 +64,10 @@
             days = d || parseInt(document.getElementById("days").value);
             locations = l || document.getElementById("locations").value === "" ? [] :document.getElementById("locations").value.split(',');
             let frequency = f || document.getElementById("minute").value * 60000;
-            if(days > 0 && days < 15 && frequency >= 6000 && locations.length > 0)
+            if(days > 0 && days < 15 && frequency >= 6000 && locations.length > 0){
+                checkAvailability();
                 checkInterval = setInterval(checkAvailability, frequency);
-            else    
+            }else    
                 document.getElementById('error').innerHTML='Enter valid input';
         }
 
