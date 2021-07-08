@@ -10,6 +10,7 @@
   
   References: 
   <a href="https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/">What Every JavaScript Developer Should Know About Floating Points</a>
+  <a href="https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a> <b>-- YET TO REAB</b>
   </pre>
   
 </details>
