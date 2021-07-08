@@ -17,7 +17,7 @@
 </details>
 
 
-#### 2. Next Point to add
+#### #. Next Point to add
 <details>
   <summary>Know More</summary>
   <pre>
