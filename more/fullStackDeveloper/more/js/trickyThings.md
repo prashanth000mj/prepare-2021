@@ -32,5 +32,5 @@
   <pre>
     Next Point to add
   </pre>
-  
+
 </details>
