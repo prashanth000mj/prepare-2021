@@ -1,7 +1,7 @@
 ## Some Good References
 
-1. <a href="https://www.toptal.com/javascript/interview-questions"> JS Tricky Interview Questions</a>
-2. <a href="https://dmitripavlutin.com/javascript-hoisting-in-details/">Hosting and Temporal Dead zone</a>
+1. <a target="_blank" href="https://www.toptal.com/javascript/interview-questions"> JS Tricky Interview Questions</a>
+2. <a target="_blank" href="https://dmitripavlutin.com/javascript-hoisting-in-details/">Hosting and Temporal Dead zone</a>
 
 -----------------------
 #### 1. JS handles decimal points / floats differently
@@ -15,8 +15,8 @@
   4. Rounding errors are the cause of issue
   5. Always use a good library for numbers instead of building your own
   References: 
-  <a href="https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/">What Every JavaScript Developer Should Know About Floating Points</a>
-  <a href="https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a> <b>-- YET TO READ</b>
+  <a target="_blank" href="https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/">What Every JavaScript Developer Should Know About Floating Points</a>
+  <a target="_blank" href="https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a> <b>-- YET TO READ</b>
   </pre>
   
 </details>
