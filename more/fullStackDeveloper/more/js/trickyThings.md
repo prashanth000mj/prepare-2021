@@ -1,3 +1,4 @@
+
 #### 1. JS handles decimal points / floats differently
 `0.1 + 0.2 === 0.3` -----> false: 0.1 + 0.2 = 0.30000000000000004
 <details>
@@ -11,6 +12,16 @@
   References: 
   <a href="https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/">What Every JavaScript Developer Should Know About Floating Points</a>
   <a href="https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a> <b>-- YET TO READ</b>
+  </pre>
+  
+</details>
+
+
+#### 2. Next Point to add
+<details>
+  <summary>Know More</summary>
+  <pre>
+    Next Point to add
   </pre>
   
 </details>
