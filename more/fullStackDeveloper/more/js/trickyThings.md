@@ -1,3 +1,7 @@
+## Some Good References
+
+1 . <a href="https://www.toptal.com/javascript/interview-questions"> JS Tricky Interview Questions</a>
+
 
 #### 1. JS handles decimal points / floats differently
 `0.1 + 0.2 === 0.3` -----> false: 0.1 + 0.2 = 0.30000000000000004
