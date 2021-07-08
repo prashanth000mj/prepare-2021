@@ -6,5 +6,10 @@
   <pre>
   1. You can correct the above statement by `(0.2 * 10 + 0.1 * 10) / 10 === 0.3`
   2. The maximum number of decimals is 17
+  3. Numbers in JavaScript are actually floating points
+  
+  References: 
+  <a href="https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/">What Every JavaScript Developer Should Know About Floating Points</a>
   </pre>
+  
 </details>
