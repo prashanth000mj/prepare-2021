@@ -1,7 +1,8 @@
 ## Some Good References
 
-1. <a target="_blank" href="https://www.toptal.com/javascript/interview-questions"> JS Tricky Interview Questions</a>
-2. <a target="_blank" href="https://dmitripavlutin.com/javascript-hoisting-in-details/">Hosting and Temporal Dead zone</a>
+1. <a href="https://www.edureka.co/blog/interview-questions/javascript-interview-questions/">Interview Question</a>
+2. <a target="_blank" href="https://www.toptal.com/javascript/interview-questions"> JS Tricky Interview Questions</a>
+3. <a target="_blank" href="https://dmitripavlutin.com/javascript-hoisting-in-details/">Hosting and Temporal Dead zone</a><b>-- YET TO READ</b>
 
 -----------------------
 #### 1. JS handles decimal points / floats differently
