@@ -24,3 +24,7 @@
  - Web Worker
  - Service Worker
  - Web Sockets
+
+
+## References
+ - Scalable Frontend(https://www.linkedin.com/pulse/intro-scalable-frontend-what-how-write-one-nagendra-prajwal/)
